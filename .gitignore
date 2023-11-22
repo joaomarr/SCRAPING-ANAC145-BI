@@ -1,0 +1,7 @@
+dist
+node_modules
+.env
+.project
+.nyc_output
+coverage
+.cache
